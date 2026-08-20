@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "pvchiral: reaction-activity bounds on chiral symmetry-breaking fidelity"
+message: "Please cite this software release."
+type: software
+authors:
+  - family-names: Romero
+    given-names: Ricardo
+    email: rromero@cua.uam.mx
+version: 1.7.2
+date-released: 2026-08-19
+license: MIT
+abstract: "Software, data, and reproducibility workflows for paired-response and finite-time path-information bounds in weakly biased chiral reaction networks."
