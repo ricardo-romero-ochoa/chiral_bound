@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1340286563.svg)](https://doi.org/10.5281/zenodo.22021975)
+
 # chiral_bound 1.0.0
 
 `chiral_bound` is a reproducibility repository for reaction-activity and path-information bounds in weakly biased chiral reaction networks. It contains the analytical helper functions, stochastic reaction-network implementations, archived numerical data, and regression tests used to validate the results.
