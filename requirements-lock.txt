@@ -1,5 +1,0 @@
-# Tested environment retained for Milestone-3 development release 1.6.0.dev0
-numpy==2.3.5
-scipy==1.17.0
-matplotlib==3.10.8
-pytest==9.0.2
